@@ -1,0 +1,22 @@
+{
+  "name": "saturn",
+  "version": "1.0.0",
+  "description": "A space-like web interface focused on planet saturn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Shell-thon/Saturn.git"
+  },
+  "author": "Michael Temidayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shell-thon/Saturn/issues"
+  },
+  "homepage": "https://github.com/Shell-thon/Saturn#readme",
+  "dependencies": {
+    "bootstrap4": "^0.0.1-security"
+  }
+}
