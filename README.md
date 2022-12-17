@@ -1,10 +1,15 @@
 # SATURN
 
-##hehe welcomw to planet saturn
+## hehe welcome to planet saturn.
 
-- Still under development but just so you know it's gonna be awesome
+- The aim of this site is to produce a web interface that is much more like a realtime space Interaction.
 
-#Authors: Shell | Jtoby
+- Feedback and more testing will be provided to the developers for more improvement.
+
+- Still under development but just so you know it's gonna be awesome.
+
+## Authors
+### _Shell | Jtoby_
 
 - ** Instagram: [shell.terminal] (https://www.instagram.com/shell.terminal/)
 - ** LinkedIn: [Adejare Michael] (www.linkedin.com/in/metromaniageek)
