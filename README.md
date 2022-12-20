@@ -2,7 +2,7 @@
 
 ## hehe welcome to planet saturn.
 
-- The aim of this site is to produce a web interface that is much more like a realtime space Interaction.
+- The aim of this site is to produce a web interface that is more like a realtime space Interaction.
 
 - Feedback and more testing will be provided to the developers for more improvement.
 
@@ -11,5 +11,5 @@
 ## Authors
 ### _Shell | Jtoby_
 
-- ** Instagram: [shell.terminal] (https://www.instagram.com/shell.terminal/)
-- ** LinkedIn: [Adejare Michael] (www.linkedin.com/in/metromaniageek)
+- **Instagram: [shell.terminal]** (https://www.instagram.com/shell.terminal/)
+- **LinkedIn: [Adejare Michael]** (www.linkedin.com/in/metromaniageek)
