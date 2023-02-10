@@ -11,5 +11,7 @@
 ## Authors
 ### _Shell | Jtoby_
 
-- **Instagram: [shell.terminal]** (https://www.instagram.com/shell.terminal/)
-- **LinkedIn: [Adejare Michael]** (www.linkedin.com/in/metromaniageek)
+* **Instagram** - [shell.terminal](https://www.instagram.com/shell.terminal/)
+* **LinkedIn** - [Adejare Michael](www.linkedin.com/in/metromaniageek)
+
+* **Instagram** - [jtobyy](https://www.instagram.com/jtobyy/))
