@@ -14,4 +14,4 @@
 * **Instagram** - [shell.terminal](https://www.instagram.com/shell.terminal/)
 * **LinkedIn** - [Adejare Michael](www.linkedin.com/in/metromaniageek)
 
-* **Instagram** - [jtobyy](https://www.instagram.com/jtobyy/))
+* **Instagram** - [jtobyy](https://www.instagram.com/jtobyy/)
